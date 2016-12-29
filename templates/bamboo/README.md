@@ -4,10 +4,10 @@
 * [Scalable Bamboo Agents](https://hub.docker.com/r/matisq/bamboo-agent/)
 
 ## Info
-* In default Bamboo stack will create "bamboo" postgres database with bamboo user.  
+* In default Bamboo stack will create `bamboo` postgres database with `bamboo` user.  
 * Additional variables `http_proxy` and `https_proxy` are included, which can be helpful in some cases.
-* Once Bamboo will start, make sure you setup correct information in setup page.
-* For easy upgrades there are sidekicks for both postgress and teamcity-server with dedicated storage.
+* Once Bamboo Server will start, make sure you setup correct information in setup page.
+* For easy upgrades there are sidekicks for both Postgres and Bamboo Server with dedicated storage.
 
 ## Bamboo Agents
 Bamboo Agents will start automatically and connect to the Bamboo Server.  
