@@ -2,6 +2,7 @@
 * [Bamboo Server](https://hub.docker.com/r/matisq/bamboo-server/) + Sidekick with volume data
 * Postgres Database + Sidekick with volume data
 * [Scalable Bamboo Agents](https://hub.docker.com/r/matisq/bamboo-agent/)
+* Load Balancer used for Bamboo Server
 
 ## Info
 * In default Bamboo stack will create `bamboo` postgres database with `bamboo` user.  
