@@ -12,3 +12,6 @@
 ## Bamboo Agents
 Bamboo Agents will start automatically and connect to the Bamboo Server.  
 Agents should be available in Bamboo Server in about 5 minutes after stack's start.
+
+## How to setup Bamboo Stack in Rancher?
+* Here you can find information how to setup Bamboo CI env: [How to setup Bamboo Stack in Rancher](https://github.com/matisku/bamboo-docker/blob/master/doc/README.md)
